@@ -1,0 +1,11 @@
+#score_label{
+ float: left;
+}
+
+#timer_label{
+    float: right;
+}
+
+body{
+    background-color: greenyellow;
+}
